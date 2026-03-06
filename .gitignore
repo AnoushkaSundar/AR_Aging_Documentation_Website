@@ -17,8 +17,8 @@ build/
 venv/
 env/
 
-# Streamlit cache
-.streamlit/
+# Streamlit secrets — ignore the real file, not the example
+.streamlit/secrets.toml
 
 # Temporary scripts
 fix_and_upload.py
